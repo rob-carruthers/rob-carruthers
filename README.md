@@ -1,10 +1,12 @@
 ### Rob Carruthers
 
-Nice to meet you! I recently graduated from Le Wagon London in Data Science & AI.
+Nice to meet you! I am a data scientist, machine-learning engineer, and open-source enthusiast. I work with mainly with image object detection & document segmentation, and also more general predictive modelling.
 
-I co-developed <a href="https://github.com/sjacob-07/quizachu">Quizachu</a>, a scalable generative AI platform for question generation, answering and assessment. I gained considerable knowledge of generative AI, fine-tuning LLMs, decoder search strategies, and scalable cloud deployment.
+In my spare time I like learning [Rust](https://rust-lang.org) and making streamlined Linux systems. I have experience with most mainstream Linux distributions (and many non-mainstream ones!).
 
-I also have a range of side projects and tasks completed at Le Wagon. Please have a look through my repos!
+I enjoy <a href="https://github.com/rob-carruthers/nixos-config">NixOS</a>, <a href="https://helix-editor.com">Helix</a>, <a href="https://github.com/astral-sh/uv">uv</a>, <a href="https://github.com/astral-sh/ruff">ruff</a>, and <a href="https://github.com/astral-sh/ty">ty</a>.
+
+
 
 <!--
 **rob-carruthers/rob-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,42 +33,36 @@ Here are some ideas to get you started:
 <p>
 <!--Python-->
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
-<!--Tensorflow-->
-<a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-<!--Keras-->
-<a href="https://keras.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
-<!--Jupyter-->
-<a href="https://jupyter.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white/"/></a>
+<!--Pytorch-->
+<a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pytorch-F37626?style=for-the-badge&logo=Pytorch&logoColor=white/"/></a>
+<!--Pydantic-->
+<a href="https://docs.pydantic.dev/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Pydantic-DF50AF?style=for-the-badge&logo=Pydantic&logoColor=white/"/></a>
 <!--Scikit-learn-->
-<a href="https://scikit-learn.org/stable/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white/"/></a>
-<!--Pandas-->
-<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white/"/></a>
+<a href="https://scikit-learn.org/stable/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-A7431E?style=for-the-badge&logo=scikit-learn&logoColor=white/"/></a>
+<!--Polars-->
+<a href="https://pola.rs" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-2C2D72?style=for-the-badge&logo=polars&logoColor=white/"/></a>
 <!--Numpy-->
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white/"/></a>
-<!--Git-->
-<a href="https://git-scm.com/ target="blank"><img align="center" src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/"/></a>
-<!--VS Code-->
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/"/></a>
 </p>
+
+### Tools
 <p>
-<!--GCP-->
-<a href="https://cloud.google.com/gcp?hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white/"></a>
 <!--Docker-->
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <!--FastAPI-->
 <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
-<!--FastAPI-->
+<!--NGINX-->
 <a href="https://nginx.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
+<!--Git-->
+<a href="https://git-scm.com/ target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/"/></a>
 </p>
 <p>
 <!--Linux-->
 <a href="https://kernel.org" target="blank"><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <!--Bash-->
-<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white/"></a>
-<!--Ubuntu-->
-<a href="https://ubuntu.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<!--Arch-->
-<a href="https://archlinux.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-<!--Gentoo-->
-<a href="https://gentoo.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"></a>
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://img.shields.io/badge/Bash-1E2A25?style=for-the-badge&logo=GNU%20Bash&logoColor=white/"></a>
+<!--NixOS-->
+<a href="https://nixos.org/" target="blank"><img align="center" src="https://img.shields.io/badge/NixOS-E95420?style=for-the-badge&logo=nixos&logoColor=white"></a>
+<!--Helix-->
+<a href="https://helix-editor.org" target="blank"><img align="center" src="https://img.shields.io/badge/Helix-0078D4?style=for-the-badge&logo=helix&logoColor=white/"/></a>
 </p>
